@@ -168,6 +168,14 @@ export default function Home() {
             >
               richardqin918@gmail.com
             </a>
+            <a
+              href="https://drive.google.com/file/d/1AkShAu7_T2O1yHkNb19LJ9Kk_3xQv9bf/view?usp=drive_link"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-4 inline-flex h-12 items-center justify-center rounded-full border border-foreground/15 px-8 text-sm font-medium text-foreground transition-colors hover:border-foreground/30 hover:bg-foreground/[0.03]"
+            >
+              Resume (Google Drive)
+            </a>
             <div className="mt-8 flex justify-center gap-6 text-sm">
               <a
                 href="https://github.com/RichardQin918"
