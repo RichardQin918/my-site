@@ -15,7 +15,21 @@ const projects = [
     description:
       "MVP exploring Layer 2 concepts on Bitcoin: onboarding, core interactions, and a path from prototype to production.",
     tag: "Platform",
-    href: "https://2sands.vercel.app/",
+    href: "https://btc-mvp-self.vercel.app/",
+  },
+  {
+    title: "Crypto Chimpz (NFT ICO)",
+    description:
+      "NFT ICO web experience for Crypto Chimpz—mint/launch-focused pages, token info, and a polished onboarding flow for collectors.",
+    tag: "Web3",
+    href: "https://richardqin918.github.io/crypto-chimpz/",
+  },
+  {
+    title: "SonicEx (Cross-Chain DEX)",
+    description:
+      "Cross-chain DEX experience for SonicEx—swap-ready UI with routing concepts, wallet flow, and a smoother path from trade intent to execution.",
+    tag: "DeFi",
+    href: "https://swapp-dapp-dev.vercel.app",
   },
 ] as const;
 
