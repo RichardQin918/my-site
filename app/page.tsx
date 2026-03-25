@@ -15,7 +15,7 @@ const projects = [
     description:
       "MVP exploring Layer 2 concepts on Bitcoin: onboarding, core interactions, and a path from prototype to production.",
     tag: "Platform",
-    href: "https://btc-mvp-self.vercel.app/",
+    href: "https://2sands.vercel.app/",
   },
 ] as const;
 
